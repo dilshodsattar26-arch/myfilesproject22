@@ -1,0 +1,8 @@
+{
+    "name": "maincontroller-service",
+    "version": "1.0.22",
+    "private": false,
+    "environment": "production",
+    "build_id": 329,
+    "allow_public_access": true
+}
